@@ -7,3 +7,8 @@ if (true)
 {
     Console.WriteLine("Trzecia modyfikacja");
 }
+
+if (!false)
+{
+    Console.WriteLine("Czwarta modyfikacja");
+}
