@@ -18,3 +18,8 @@ Double CalculateAverage(int[] values)
 { //I have change double type to Double and added this comment
   return (double)values.Sum() / values.Length;  
 }
+
+int CalculateMax(int[] values)
+{
+    return values.Max();
+} 
