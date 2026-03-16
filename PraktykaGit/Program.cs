@@ -25,9 +25,7 @@ int CalculateMax(int[] values)
 }
 
 int CalculateMin(int[] values)
-{   Console.WriteLine("First commit");
-    Console.WriteLine("Second commit");
-    Console.WriteLine("Third commit");
+{   
     Console.WriteLine("Commit for main branch");
     
     return values.Min();
