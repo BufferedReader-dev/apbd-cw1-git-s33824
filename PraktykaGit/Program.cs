@@ -28,5 +28,10 @@ int CalculateMin(int[] values)
 {   
     Console.WriteLine("Commit for main branch");
     
+
+   Console.WriteLine("First commit");
+    Console.WriteLine("Second commit");
+    Console.WriteLine("Third commit");
+
     return values.Min();
 }
