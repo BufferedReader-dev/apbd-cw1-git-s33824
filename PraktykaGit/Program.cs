@@ -32,6 +32,7 @@ int CalculateMin(int[] values)
    Console.WriteLine("First commit");
     Console.WriteLine("Second commit");
     Console.WriteLine("Third commit");
-Console.WriteLine("Ten sam fragment kodu zmodyfikowano dla maina");
+
+Console.WriteLine("Ten sam fragment kodu zmodyfikowano");
     return values.Min();
 }
