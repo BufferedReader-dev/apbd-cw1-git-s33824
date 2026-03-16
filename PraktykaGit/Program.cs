@@ -14,7 +14,7 @@ if (!false)
 }
 
 
-double CalculateAverage(int[] values)
-{
+Double CalculateAverage(int[] values)
+{ //I have change double type to Double and added this comment
   return (double)values.Sum() / values.Length;  
 }
