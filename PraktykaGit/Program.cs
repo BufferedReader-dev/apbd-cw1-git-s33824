@@ -22,4 +22,13 @@ Double CalculateAverage(int[] values)
 int CalculateMax(int[] values)
 {
     return values.Max();
-} 
+}
+
+int CalculateMin(int[] values)
+{   Console.WriteLine("First commit");
+    Console.WriteLine("Second commit");
+    Console.WriteLine("Third commit");
+    Console.WriteLine("Commit for main branch");
+
+    return values.Min();
+}
