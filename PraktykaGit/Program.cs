@@ -12,3 +12,9 @@ if (!false)
 {
     Console.WriteLine("Czwarta modyfikacja");
 }
+
+
+double CalculateAverage(int[] values)
+{
+  return (double)values.Sum() / values.Length;  
+}
