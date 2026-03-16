@@ -1,0 +1,1 @@
+﻿Zmiana komunikatu w README
